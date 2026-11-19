@@ -8,7 +8,7 @@
     "email": "help@itmly.app"
   },
   "homepage": "https://itmly.app/mcp",
-  "repository": "https://gitlab.com/holy-schmitt/itmly-cursor-plugin",
+  "repository": "https://github.com/holy-schmitt-dev/itmly-cursor-plugin",
   "license": "MIT",
   "keywords": ["itmly", "inventory", "catalogue", "home inventory", "collections", "mcp"],
   "logo": "https://itmly.app/icons/icon-512.png"
