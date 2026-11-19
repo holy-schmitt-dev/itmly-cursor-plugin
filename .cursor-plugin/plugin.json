@@ -1,0 +1,15 @@
+{
+  "name": "itmly",
+  "displayName": "itmly",
+  "description": "Search, add, edit, lend and import the things you own in your itmly catalogue, just by asking.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Holy Schmitt Studios",
+    "email": "help@itmly.app"
+  },
+  "homepage": "https://itmly.app/mcp",
+  "repository": "https://gitlab.com/holy-schmitt/itmly-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["itmly", "inventory", "catalogue", "home inventory", "collections", "mcp"],
+  "logo": "https://itmly.app/icons/icon-512.png"
+}

@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "itmly": {
+      "url": "https://itmly.app/api/mcp"
+    }
+  }
+}
